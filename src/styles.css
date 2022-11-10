@@ -1,0 +1,61 @@
+#drum-machine
+{  width: 600px;
+    height: 300px;
+    box-shadow:  1px 1px 40px 0 rgba(0, 0, 0, 0.45);
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+    margin: 10% auto 0 auto;
+    background-size: cover;
+    border-radius: 5px;
+    overflow: hidden;
+    /*background-color: #555353;*/
+}
+#display
+{
+   
+padding:25px; 
+display: grid;
+  grid-template-columns: 0.01fr 0.01fr 0.01fr ;
+  grid-gap: 10px;
+padding-bottom:5px;
+
+}
+.drum-pad
+{
+    background: #ec3646;
+height:75px;
+width:75px;
+display: flex;
+justify-content: center;
+align-items: center;
+box-shadow: 0 10px 10px rgba(100, 100, 100, 0.9);
+  cursor: pointer;
+  transition: all 0.25s cubic-bezier(0.02, 0.01, 0.47, 1);
+border-radius: 3px;
+border: 1px solid #555353;
+color: #f8f2e3;
+margin: 0 1em;
+padding: 0.25em 1em;
+font-size:1rem;
+font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.drum-pad:hover{
+  box-shadow: 0 15px 15px rgba(0, 0, 0, 0.16);
+  border-color: #efcbae;
+    background-color:#d41121;
+ color:#faf9fa
+
+}
+.hit
+{height:50px;
+  width:100px;
+
+ margin-left: 380%;
+ /*margin-right: -55%;*/
+
+margin-top:-150px;
+font-size:24px;
+color:black;
+display:flex;
+justify-content:flex-end;
+}
