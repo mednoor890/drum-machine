@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.c3efc08d.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.2974a703.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.2974a703.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.863bbd15.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.863bbd15.js.map",
+    "static/js/2.0fb4f4df.chunk.js": "/react-gh-pages/static/js/2.0fb4f4df.chunk.js",
+    "static/js/2.0fb4f4df.chunk.js.map": "/react-gh-pages/static/js/2.0fb4f4df.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/css/main.c3efc08d.chunk.css.map": "/react-gh-pages/static/css/main.c3efc08d.chunk.css.map",
+    "static/js/2.0fb4f4df.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.0fb4f4df.chunk.js.LICENSE.txt",
+    "static/media/Cev_H2.0b159bd3.mp3": "/react-gh-pages/static/media/Cev_H2.0b159bd3.mp3",
+    "static/media/Dsc_Oh.5f33c029.mp3": "/react-gh-pages/static/media/Dsc_Oh.5f33c029.mp3",
+    "static/media/Heater-1.cb8d95b6.mp3": "/react-gh-pages/static/media/Heater-1.cb8d95b6.mp3",
+    "static/media/Heater-2.4ed25e5b.mp3": "/react-gh-pages/static/media/Heater-2.4ed25e5b.mp3",
+    "static/media/Heater-3.4c4d3fd0.mp3": "/react-gh-pages/static/media/Heater-3.4c4d3fd0.mp3",
+    "static/media/Heater-4_1.0c29815e.mp3": "/react-gh-pages/static/media/Heater-4_1.0c29815e.mp3",
+    "static/media/Heater-6.faf5d12a.mp3": "/react-gh-pages/static/media/Heater-6.faf5d12a.mp3",
+    "static/media/Kick_n_Hat.6dc44dc1.mp3": "/react-gh-pages/static/media/Kick_n_Hat.6dc44dc1.mp3",
+    "static/media/RP4_KICK_1.72881f4b.mp3": "/react-gh-pages/static/media/RP4_KICK_1.72881f4b.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.863bbd15.js",
+    "static/js/2.0fb4f4df.chunk.js",
+    "static/css/main.c3efc08d.chunk.css",
+    "static/js/main.2974a703.chunk.js"
+  ]
+}
